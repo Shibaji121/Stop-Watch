@@ -1,6 +1,6 @@
 # Getting Started with Stop Watch Web site
 
-This Website is designed by using HTML, CSS and [Vanilla Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+This Website is designed by using HTML, CSS, [BootStrap Framework](https://getbootstrap.com/docs/5.0/getting-started/introduction/) and [Vanilla Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 # To Run the Website
 
