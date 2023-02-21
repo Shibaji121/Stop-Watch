@@ -5,16 +5,25 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Stop Watch</title>
+    <!-- Title Icon -->
+    <link
+      rel="icon"
+      href="https://cdn-icons-png.flaticon.com/512/9473/9473235.png"
+      type="image/x-icon"
+    />
+    <!-- BootStrap Link -->
     <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
       rel="stylesheet"
       integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
       crossorigin="anonymous"
     />
+    <!-- CSS style sheet link -->
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
     <div class="stopwatch-container">
+      <!-- Round Timer Screen -->
       <div class="timer">
         <div id="min">00</div>
         <div>:</div>
@@ -22,7 +31,9 @@
         <div>:</div>
         <div id="mili-second">00</div>
       </div>
+      <!-- Functional Buttons -->
       <div class="func-btns">
+        <!-- Start Button -->
         <button
           id="start-btn"
           class="btn btn-success btn-lg big-button"
@@ -30,6 +41,7 @@
         >
           START
         </button>
+        <!-- Stop Button -->
         <button
           id="stop-btn"
           class="btn btn-danger btn-lg big-button"
@@ -37,6 +49,7 @@
         >
           STOP
         </button>
+        <!-- Reset Button -->
         <button
           id="reset-btn"
           class="btn btn-secondary btn-lg big-button"
@@ -46,7 +59,9 @@
         </button>
       </div>
     </div>
+    <!-- Javascript source file -->
     <script src="index.js"></script>
+    <!-- BootStrap script cdn -->
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
       integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
