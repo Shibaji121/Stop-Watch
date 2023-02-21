@@ -15,8 +15,8 @@ Open chrome and Go to this [Stop Watch URL](https://mystopwatch1008.netlify.app/
 
 The Timer screen contains `Minute : Second : MiliSecond`
 
-Three buttons present with one digital timer screen.\
+Three buttons present with one digital timer screen.
 
-1. Start Button - Starts the timer.\
-2. Stop Button - Stops the timer.\
+1. Start Button - Starts the timer.
+2. Stop Button - Stops the timer.
 3. Reset Button - Resets the timer screen.
